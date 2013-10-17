@@ -32,6 +32,7 @@ int hrugufjoldi;
 int main( )
 {
 	int val;
+	cout << "Tryggvi was here" << endl;
 	do
 	{
 		cout << endl << endl << endl;
